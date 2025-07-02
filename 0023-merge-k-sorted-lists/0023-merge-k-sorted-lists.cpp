@@ -39,7 +39,7 @@ public:
             l2=l2->next;
         }
 
-        temp->next=nullptr;
+        // temp->next=nullptr;
 
         return dummy->next;
     }
