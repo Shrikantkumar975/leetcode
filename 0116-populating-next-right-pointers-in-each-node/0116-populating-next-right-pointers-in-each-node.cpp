@@ -21,14 +21,26 @@ public:
     Node* connect(Node* root) {
         if (!root)
             return root;
-        if (root->left) {
-            root->left->next = root->right;
-            if (root->next) {
-                root->right->next = root->next->left;
+        queue<Node*> q;
+        q.push(root);
+        while (!q.empty()) {
+            int levelSize = q.size();
+            for (int i = 0; i < levelSize; i++) {
+                Node* temp = q.front();
+                q.pop();
+                if (i < levelSize - 1) {
+                    temp->next = q.front();
+                } else {
+                    temp->next = NULL;
+                }
+                if (temp->left) {
+                    q.push(temp->left);
+                }
+                if (temp->right) {
+                    q.push(temp->right);
+                }
             }
         }
-        connect(root->left);
-        connect(root->right);
         return root;
     }
 };
