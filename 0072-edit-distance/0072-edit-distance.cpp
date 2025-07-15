@@ -4,8 +4,8 @@ public:
          int n= s1.size();
         int m = s2.size();
         if(s1==s2) return 0;
-        if(n==0) return m;
-        if(m==0) return n;
+        // if(n==0) return m;
+        // if(m==0) return n;
         vector<vector<int>> dp(n+1,vector<int>(m+1,0));
 
         for(int i=0;i<=n;i++){
