@@ -1,10 +1,10 @@
 class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
-        if(nums.size()<target) return 0;
         int n = nums.size();
         int mod = 1e9 + 7;
         int sum = accumulate(nums.begin(),nums.end(),0);
+        if((target+sum)%2!=0 || abs(target)>sum) return 0;
         target = (target + sum)/2;
         vector<vector<int>> dp(n + 1, vector<int>(target + 1, 0));
         
