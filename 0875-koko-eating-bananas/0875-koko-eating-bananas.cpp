@@ -1,11 +1,11 @@
 class Solution {
 public:
 
-    int checkMid(vector<int> arr,int mid){
+    long checkMid(vector<int> arr,int mid){
         long count=0;
 
         for(long ele: arr){
-            count+=(ele+mid-1LL)/mid;
+            count+=ceil(ele*1.00/mid);
         }
 
         return count;
