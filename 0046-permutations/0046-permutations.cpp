@@ -3,6 +3,7 @@ public:
     void solve(vector<int> nums,vector<int> &temp,vector<vector<int>> &res,int start){
         if(temp.size()==nums.size()) {
             res.push_back(temp);
+            return;
         }
 
         for(int i=0;i<nums.size();i++){
