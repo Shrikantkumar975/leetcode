@@ -21,9 +21,23 @@ public:
         preorder(root->right,count,max);
     }
     int maxDepth(TreeNode* root) {
-        int max =0;
-        int count =0;
-        preorder(root,count,max);
-        return max;
+       queue<TreeNode*> q;
+       if(root==nullptr) return 0;
+       q.push(root);
+       int count =0;
+
+       while(!q.empty()){
+            int size = q.size();
+
+            while(size--){
+            TreeNode* node = q.front();
+            q.pop();
+            if(node->left) q.push(node->left);
+            if(node->right) q.push(node->right);
+            }
+            count++;
+       }
+
+       return count;
     }
 };
