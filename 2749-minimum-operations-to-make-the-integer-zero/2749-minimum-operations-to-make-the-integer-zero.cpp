@@ -8,7 +8,7 @@ public:
 
             if(val<0) return -1;
 
-            if(__builtin_popcount(val)<=t && t<=val){
+            if(__builtin_popcountll(val)<=t && t<=val){
                 return t;
             }
 
