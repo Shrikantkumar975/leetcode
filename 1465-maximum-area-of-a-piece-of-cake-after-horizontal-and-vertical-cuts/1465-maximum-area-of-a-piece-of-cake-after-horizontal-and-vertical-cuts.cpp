@@ -18,6 +18,6 @@ int maxDiff(vector<int> v, int length){
         
         long x=maxDiff(horizontalCuts, h);
         long y=maxDiff(verticalCuts, w);
-        return (x*y)%(long long)(1e9 + 7);
+        return (x*y);
     }
 };
