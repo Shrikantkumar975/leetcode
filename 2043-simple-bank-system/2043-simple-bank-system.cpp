@@ -2,8 +2,7 @@ class Bank {
 public:
     vector<long long> v;
 
-    Bank(vector<long long>& balance) {
-        v = balance;
+    Bank(vector<long long>& balance) : v(balance) {
     }
     
     bool transfer(int account1, int account2, long long money) {
