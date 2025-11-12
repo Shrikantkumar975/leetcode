@@ -11,12 +11,9 @@ public:
             int op=0;
             int g=nums[i];
             for(int j=i+1;j<nums.size();j++){
-                g=gcd(g,nums[j]);
-                if(g==1){
-                    op++;
-                    break;
-                }
+                g = gcd(g,nums[j]);
                 op++;
+                if(g==1) break;
             }
             if(g==1) minOp = min(op,minOp);
         }
