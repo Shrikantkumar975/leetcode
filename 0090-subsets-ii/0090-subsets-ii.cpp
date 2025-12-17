@@ -11,13 +11,18 @@ public:
     }
 
     void solve(vector<int> nums,vector<vector<int>> &ans,vector<int> temp,int start){
-        ans.push_back(temp);
-
-        for(int i=start;i<nums.size();i++){
-            if(i>start && nums[i]==nums[i-1]) continue;
-            temp.push_back(nums[i]);
-            solve(nums,ans,temp,i+1);
-            temp.pop_back();
+        if(start == nums.size()){
+            ans.push_back(temp);
+            return;
         }
+        
+        temp.push_back(nums[start]);
+        solve(nums,ans,temp,start+1);
+        temp.pop_back();
+
+        int next=start+1;
+        while(next<nums.size() && nums[next]==nums[start]) next++;
+        
+        solve(nums,ans,temp,next);
     }
 };
