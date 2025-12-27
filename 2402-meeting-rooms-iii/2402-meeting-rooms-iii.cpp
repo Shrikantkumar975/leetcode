@@ -1,48 +1,53 @@
 class Solution {
-    #define ll long long
-    #define pli pair<ll,int>
 public:
     int mostBooked(int n, vector<vector<int>>& meetings) {
-        sort(meetings.begin(),meetings.end());
-        priority_queue<pli,vector<pli>,greater<pli>> free_rooms, occupied_rooms;
-        vector<int> freq(n,0);
+        int m = meetings.size();
 
-        //Initially all rooms are free
-        for(int i=0;i<n;++i)
-            free_rooms.push({0,i});//{time,room_no} pair
+        sort(begin(meetings), end(meetings)); //sort by starting time of meetings
 
-        //Simulate Job Scheduling
-        for(int i=0;i<meetings.size();++i){
-            //Add rooms getting free now
-            while(!occupied_rooms.empty() and occupied_rooms.top().first<=meetings[i][0]){
-                pli curr = occupied_rooms.top();
-                occupied_rooms.pop();
-                curr.first = 0;
-                free_rooms.push(curr);
+        vector<int> roomsUsedCount(n, 0); //Each room is used 0 times in the beginning
+        vector<long long> lastAvailableAt(n, 0); //Each room will be last available at
+        
+
+        for(vector<int>& meet : meetings) {
+            int start  = meet[0];
+            int end    = meet[1];
+            bool found = false;
+
+            long long EarlyEndRoomTime = LLONG_MAX;
+            int EarlyEndRoom     = 0;
+
+            //Find the first available meeting room
+            for(int room = 0; room < n; room++) {
+                if(lastAvailableAt[room] <= start) {
+                    found = true;
+                    lastAvailableAt[room] = end;
+                    roomsUsedCount[room]++;
+                    break;
+                }
+
+                if(lastAvailableAt[room] < EarlyEndRoomTime) {
+                    EarlyEndRoom = room;
+                    EarlyEndRoomTime = lastAvailableAt[room];
+                }
             }
-            //Assign a room to current meeting
-            if(!free_rooms.empty()){
-                pli curr = free_rooms.top();
-                free_rooms.pop();
-                freq[curr.second]++;
-                curr.first = meetings[i][1];
-                occupied_rooms.push(curr);
-            }else{
-                pli curr = occupied_rooms.top();
-                occupied_rooms.pop();
-                freq[curr.second]++;
-                curr.first += 1LL*(meetings[i][1] - meetings[i][0]);
-                occupied_rooms.push(curr);
+
+            if(!found) {
+                lastAvailableAt[EarlyEndRoom] += (end - start);
+                roomsUsedCount[EarlyEndRoom]++;
+            }
+
+        }
+
+        int resultRoom = -1;
+        int maxUse     = 0;  
+        for(int room = 0; room < n; room++) {
+            if(roomsUsedCount[room] > maxUse) {
+                maxUse = roomsUsedCount[room];
+                resultRoom = room;
             }
         }
-        int max_meeting_room;
-        int max_meetings = 0;
-        for(int i=0;i<n;++i){
-            if(freq[i]>max_meetings){
-                max_meeting_room = i;
-                max_meetings = freq[i];
-            }
-        }
-        return max_meeting_room;
+
+        return resultRoom;
     }
 };
