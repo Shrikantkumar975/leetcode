@@ -11,16 +11,12 @@ public:
             }
         }
 
-        int sum = accumulate(v.begin(),v.end(),0);
+        long long sum = accumulate(v.begin(),v.end(),0ll);
 
         if(count%2==0) return sum;
 
-        count%=2;
         sort(v.begin(),v.end());
-        int i=0;
-        while(count--){
-            sum-=2*v[i];
-        }
+        sum-=2*v[0];
 
         return sum;
     }
