@@ -12,29 +12,24 @@ public:
         }
 
         queue<int> q;
-        for(int i=0;i<indegree.size();i++){
+
+        for(int i=0;i<numCourses;i++){
             if(indegree[i]==0) q.push(i);
         }
 
-        vector<int> topo;
+        int count=0;
+
         while(!q.empty()){
-            int node = q.front();
+            int u =q.front();
             q.pop();
+            count++;
 
-            topo.push_back(node);
-
-            for(int neigh : adj[node]){
-                indegree[neigh]--;
-                if(indegree[neigh] == 0){
-                    q.push(neigh);
-                }
+            for(int &v: adj[u]){
+                indegree[v]--;
+                if(indegree[v]==0) q.push(v);
             }
-        }
+        }        
 
-        if(topo.size()<numCourses){
-            return false;
-        }
-
-        return true;
+        return count==numCourses;
     }
 };
