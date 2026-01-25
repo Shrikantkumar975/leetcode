@@ -26,31 +26,27 @@ public:
         
 
         for(int i=0;i<V;i++){
-            int col = 1;
             if(color[i]==0){
                 queue<int> q;
                 q.push(i);
-                color[i] = col;
+                color[i] = 1;
                 while(!q.empty()){
                     int size = q.size();
 
                     while(size--){
-                        int newCol = 3-col;
                         int u = q.front();
                         q.pop();
                         
                         for(int &v: graph[u]){
-                            if(color[v] == col){
+                            if(color[v] == color[u]){
                                 return false;
                             }
                             if(color[v]==0){
                                 q.push(v);
-                                color[v]=newCol;
+                                color[v]=3-color[u];
                             }
                         }
                     }
-
-                    col= 3-col;
                 }
             }
         }
