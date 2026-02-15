@@ -36,7 +36,7 @@
 
 class Solution {
 public:
-    string addBinary(string a, string b) {   // a"101" b ="1011"
+    string addBinary(string a, string b) {   // a"101" b ="1011"  = " 10000"
         string res; 
         int carry = 0;
         int i = a.length() - 1;   // 3,2 , 1 , 0 , -1
