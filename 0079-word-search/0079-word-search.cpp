@@ -1,40 +1,43 @@
 class Solution {
 public:
-    void back(vector<vector<char>>& board,string word,int i,int j,int k,bool &ans){
-        if(ans) return;
+    vector<int> dx = {0,1,0,-1};
+    vector<int> dy = {1,0,-1,0};
 
-        if(k==word.size()){
-            ans=true;
-            return;
-        }
+    bool check(vector<vector<char>> &board,string &word,int curr,int i,int j){
+        if(curr == word.size()) return true;
 
-        if(i>=board.size() || i<0 || j>=board[0].size() || j<0 || board[i][j]!=word[k]){
-            return;
-        }
+        if(i>=board.size() || i<0 || j>=board[0].size() || j<0 || board[i][j]=='$') return false;
+        
+        if(board[i][j]!=word[curr]) return false;
 
         char temp = board[i][j];
-        board[i][j]='0';
+        board[i][j]='$';
+        for(int k=0;k<4;k++){
+            int ni=i+dx[k];
+            int nj=j+dy[k];
+            
+            if(check(board,word,curr+1,ni,nj)) return true;
+        }
+        board[i][j]=temp;
 
-        back(board,word,i+1,j,k+1,ans);
-        back(board,word,i-1,j,k+1,ans);
-        back(board,word,i,j+1,k+1,ans);
-        back(board,word,i,j-1,k+1,ans);
 
-        board[i][j] = temp;
+
+        return false;
+
     }
 
     bool exist(vector<vector<char>>& board, string word) {
-        int n=board.size(),m=board[0].size();
-        bool ans =0;
+        bool found=false;
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(board[i][j] == word[0])
-                back(board,word,i,j,0,ans);
-                if(ans) break;
+
+        for(int i=0;i<board.size();i++){
+            for(int j=0;j<board[i].size();j++){
+                if(board[i][j]==word[0]){
+                    if(check(board,word,0,i,j)) return true;
+                }
             }
         }
 
-        return ans;
+        return false;
     }
 };
