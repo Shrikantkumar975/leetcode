@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Shrikantkumar975/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
 | [0198-house-robber](https://github.com/Shrikantkumar975/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Shrikantkumar975/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -38,10 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Bit Manipulation
@@ -102,4 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Shrikantkumar975/leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
