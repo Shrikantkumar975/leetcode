@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0056-merge-intervals](https://github.com/Shrikantkumar975/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrikantkumar975/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -152,4 +153,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
