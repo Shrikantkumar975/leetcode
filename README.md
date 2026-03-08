@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Shrikantkumar975/leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Shrikantkumar975/leetcode/tree/main/1723-find-minimum-time-to-finish-all-jobs/) | Hard |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shrikantkumar975/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Shrikantkumar975/leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/Shrikantkumar975/leetcode/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 ## String
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shrikantkumar975/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Shrikantkumar975/leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Shrikantkumar975/leetcode/tree/main/1723-find-minimum-time-to-finish-all-jobs/) | Hard |
+| [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Shrikantkumar975/leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Shrikantkumar975/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shrikantkumar975/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Shrikantkumar975/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
