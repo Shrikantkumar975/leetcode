@@ -22,7 +22,6 @@ public:
             curr = nextNext;
         }
 
-        head = prev;
-        return head;
+        return prev;
     }
 };
