@@ -1,25 +1,26 @@
 class Solution {
 public:
-    int count=0;
-
-    bool validPalindrome(string &s,int i,int j){
-        while(i<j){
-            if(s[i]!=s[j]) return false;
-            i++;
-            j--;
-        }
-        return true;
-    }
-    
     int countSubstrings(string s) {
-        int n = s.size();
-        
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(validPalindrome(s,i,j)) count++;
+        int result = 0;
+
+        for(int i = 0; i < s.size(); i++)
+        {
+            int left = i, right = i;
+            while(left >= 0 && right < s.size() && s[left] == s[right])
+            {
+                result++;
+                left--;
+                right++;
+            }
+
+            left = i, right = i + 1;
+            while(left >= 0 && right < s.size() && s[left] == s[right])
+            {
+                result++;
+                left--;
+                right++;
             }
         }
-
-        return count;
+        return result;
     }
 };
