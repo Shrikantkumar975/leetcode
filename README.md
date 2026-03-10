@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Shrikantkumar975/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
