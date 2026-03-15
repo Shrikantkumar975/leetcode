@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Shrikantkumar975/leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Shrikantkumar975/leetcode/tree/main/1723-find-minimum-time-to-finish-all-jobs/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Shrikantkumar975/leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Shrikantkumar975/leetcode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shrikantkumar975/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Shrikantkumar975/leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Shrikantkumar975/leetcode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Bitmask
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Shrikantkumar975/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Shrikantkumar975/leetcode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shrikantkumar975/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shrikantkumar975/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Math
