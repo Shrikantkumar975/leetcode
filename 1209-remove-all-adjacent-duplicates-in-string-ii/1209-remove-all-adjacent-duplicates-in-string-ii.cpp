@@ -4,26 +4,33 @@ public:
         stack<pair<char,int>> st;
 
         for(char c: s){
-
-            if(!st.empty() && c == st.top().first){
-                st.top().second++;
-                if(st.top().second == k)
-                    st.pop();
-            }else{
-                st.push({c,1});
+            int count=1;
+            if(!st.empty() && st.top().first==c){
+                count+=st.top().second;
+                st.pop();
             }
-
+            if(count==k) continue;
+            st.push({c,count});
         }
 
-        string res;
+        stack<char> st2;
         while(!st.empty()){
-            res.append(st.top().second,st.top().first);
+            auto [a,b] = st.top();
             st.pop();
+            while(b){
+                st2.push(a);
+                b--;
+            }
         }
-        reverse(res.begin(),res.end());
-        return res;
 
+        string ans="";
 
+        while(!st2.empty()){
+            ans+=st2.top();
+            st2.pop();
+        }
+
+        return ans;
 
     }
 };
