@@ -13,15 +13,11 @@ public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         auto cmp = [](ListNode* v1, ListNode* v2) { return v1->val > v2->val; };
 
-        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq;
+        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
 
-        for (int i = 0; i < lists.size(); i++) {
-            ListNode* temp = lists[i];
-
-            while (temp) {
-                pq.push(temp);
-                temp = temp->next;
-            }
+        for (auto l: lists) {
+            if(l)
+                pq.push(l);
         }
 
         ListNode* dummy = new ListNode(0);
@@ -30,8 +26,12 @@ public:
         while (!pq.empty()) {
             ListNode* curr = pq.top();
             pq.pop();
-            temp->next = curr;
+
+            temp->next=curr;
             temp = temp->next;
+            if(curr->next){
+                pq.push(curr->next);
+            }
         }
 
         return dummy->next;
