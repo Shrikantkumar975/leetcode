@@ -26,7 +26,6 @@ public:
 
     long long goDeep(TreeNode* root){
         if(!root) return 0;
-        // long long 
         root->val += goDeep(root->left) + goDeep(root->right); 
         return root->val;
     }
