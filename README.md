@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shrikantkumar975/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Shrikantkumar975/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shrikantkumar975/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shrikantkumar975/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shrikantkumar975/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Shrikantkumar975/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shrikantkumar975/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shrikantkumar975/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
