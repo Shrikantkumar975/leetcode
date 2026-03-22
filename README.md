@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Shrikantkumar975/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shrikantkumar975/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shrikantkumar975/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/Shrikantkumar975/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shrikantkumar975/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Shrikantkumar975/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shrikantkumar975/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/Shrikantkumar975/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3643-flip-square-submatrix-vertically](https://github.com/Shrikantkumar975/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
