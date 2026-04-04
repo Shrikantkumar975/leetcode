@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shrikantkumar975/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shrikantkumar975/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Shrikantkumar975/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shrikantkumar975/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shrikantkumar975/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Shrikantkumar975/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shrikantkumar975/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Hash Table
