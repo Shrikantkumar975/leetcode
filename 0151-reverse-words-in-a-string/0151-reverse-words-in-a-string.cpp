@@ -1,34 +1,40 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string word="";
-        vector<string> v;
-        for(int i=0;i<s.size();i++){
-            if(s[i]==' ' && word.size()!=0){
-                v.push_back(word);
-                word="";
-            }else if(s[i]==' ' && word.size()==0){
-                continue;    
-            }else{
-                word+=s[i];
+        reverse(s.begin(),s.end());
+        int left=0,right=0,i=0;
+        string str="";
+
+        while(i<s.size()){
+
+            if (s[i] == ' ') {
+                i++;
+                left = i;
+                right = i;
+                continue;
             }
-        }
-        if(word.size()>0){
-        int i=0;
-        string l="";
-        while(i<word.length() && word[i]!=' '){
-            l+=word[i++];
-        }
-        v.push_back(l);
-        word="";
+
+            while(i<s.size() && s[i]!=' '){
+                right++;
+                i++;
+            }
+
+            reverse(s.begin()+left,s.begin()+right);
+            str+=s.substr(left,right-left)+" ";
+            left=i;
+            right=i;
         }
 
-        reverse(v.begin(),v.end());
-        for(int i=0;i<v.size()-1;i++){
-            word+=v[i]+" ";
-        }
-        word+=v[v.size()-1];
+        // left=0;
+        // right=s.size()-1;
 
-        return word;
+        // while(s[left]==' '){
+        //     left++;
+        // }
+        // while(s[right]==' '){
+        //     right--;
+        // }
+
+        return str.substr(0,str.size()-1);
     }
 };
