@@ -11,25 +11,9 @@ public:
         return b;
     }
 
-    int remove(int a){
-        int curr = reverseInt(a);
-        return reverseInt(curr);
-    }
-
     int minMirrorPairDistance(vector<int>& nums) {
         unordered_map<int,int> mpp;
         int ans=INT_MAX;
-
-        // for(int i=0;i<nums.size();i++){
-        //     int curr = reverseInt(nums[i]);
-        //     if(mpp.find(curr)!=mpp.end()){
-        //         ans= min(ans,abs(i - mpp[curr]));
-        //     }
-        //     // int now=remove(nums[i]);
-        //     mpp[nums[i]]=i;
-        // }
-
-        // mpp.clear();
 
         for(int i=nums.size()-1;i>=0;i--){
             int curr = reverseInt(nums[i]);
