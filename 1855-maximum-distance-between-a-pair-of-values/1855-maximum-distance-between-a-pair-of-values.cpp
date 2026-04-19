@@ -3,20 +3,13 @@ public:
     int maxDistance(vector<int>& nums1, vector<int>& nums2) {
         int ans = 0;
         for(int i=0;i<nums1.size();i++){
-            int a = i;
-            int low = i;
-            int high = nums2.size()-1;
+            int j=i;
 
-            while(low<=high){
-                int mid = (low+high)/2;
-                if(nums2[mid]>=nums1[i]){
-                    a=mid;
-                    low = mid+1;
-                }
-                else high = mid-1;
+            while(j<nums2.size() && nums2[j]>=nums1[i]){
+                j++;
             }
 
-            ans = max(ans,a-i);
+            ans = max(ans,j-i-1);
         }
 
         return ans;
