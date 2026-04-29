@@ -448,4 +448,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shrikantkumar975/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Shrikantkumar975/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
