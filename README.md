@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shrikantkumar975/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0396-rotate-function](https://github.com/Shrikantkumar975/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Shrikantkumar975/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shrikantkumar975/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Shrikantkumar975/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shrikantkumar975/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0396-rotate-function](https://github.com/Shrikantkumar975/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shrikantkumar975/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Shrikantkumar975/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Shrikantkumar975/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shrikantkumar975/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0396-rotate-function](https://github.com/Shrikantkumar975/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
