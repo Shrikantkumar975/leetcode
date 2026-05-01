@@ -3,17 +3,20 @@ public:
     int maxRotateFunction(vector<int>& nums) {
         int sum = accumulate(nums.begin(),nums.end(),0);
 
-        vector<int> ans(nums.size(),0);
+        int curr=0;
+        int maxi=0;
 
-        // ans[0]=0;
         for(int i=1;i<nums.size();i++){
-            ans[0]+=nums[i]*i;
+            curr+=nums[i]*i;
         }
 
-        for(int i=1;i<ans.size();i++){
-            ans[i]=ans[i-1]+sum-nums.size()*nums[nums.size()-i];
+        for(int i=1;i<nums.size();i++){
+            curr=curr+sum-nums.size()*nums[nums.size()-i];
+            maxi =max(maxi,curr);
         }
 
-        return *max_element(ans.begin(),ans.end());
+        return maxi;
+
+        // return *max_element(ans.begin(),ans.end());
     }
 };
