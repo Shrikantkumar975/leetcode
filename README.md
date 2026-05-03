@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Shrikantkumar975/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrikantkumar975/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/Shrikantkumar975/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shrikantkumar975/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrikantkumar975/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shrikantkumar975/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shrikantkumar975/leetcode/tree/main/0198-house-robber/) | Medium |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Shrikantkumar975/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shrikantkumar975/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
