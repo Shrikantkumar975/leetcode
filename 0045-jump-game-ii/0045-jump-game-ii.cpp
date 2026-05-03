@@ -7,6 +7,11 @@ public:
         for(int i = 0;i<nums.size()-1;i++){
             farthest = max(farthest,nums[i] + i);
 
+            if(farthest >= nums.size()-1){
+                count++;
+                break;
+            }
+
             if(i == stop){
                 count++;
                 stop = farthest;
