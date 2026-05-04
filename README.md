@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Shrikantkumar975/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Shrikantkumar975/leetcode/tree/main/0274-h-index/) | Medium |
+| [0289-game-of-life](https://github.com/Shrikantkumar975/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shrikantkumar975/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Shrikantkumar975/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0289-game-of-life](https://github.com/Shrikantkumar975/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Shrikantkumar975/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0289-game-of-life](https://github.com/Shrikantkumar975/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Shrikantkumar975/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shrikantkumar975/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
