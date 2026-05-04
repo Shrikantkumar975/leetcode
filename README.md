@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Shrikantkumar975/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrikantkumar975/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0022-generate-parentheses/) | Medium |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Shrikantkumar975/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrikantkumar975/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Shrikantkumar975/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Shrikantkumar975/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Shrikantkumar975/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shrikantkumar975/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Shrikantkumar975/leetcode/tree/main/0189-rotate-array/) | Medium |
