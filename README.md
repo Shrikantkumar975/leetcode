@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Shrikantkumar975/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0045-jump-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Shrikantkumar975/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Shrikantkumar975/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Shrikantkumar975/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Shrikantkumar975/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shrikantkumar975/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
