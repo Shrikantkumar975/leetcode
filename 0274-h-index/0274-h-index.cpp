@@ -12,7 +12,7 @@ public:
     }
 
     int hIndex(vector<int>& citations) {
-        int ans = 1;
+        int ans = 0;
         int maxi = *max_element(citations.begin(),citations.end());
 
         for(int i=1;i<=maxi;i++){
