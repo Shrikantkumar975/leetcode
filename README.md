@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Shrikantkumar975/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Shrikantkumar975/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shrikantkumar975/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Shrikantkumar975/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shrikantkumar975/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2751-robot-collisions](https://github.com/Shrikantkumar975/leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -524,4 +526,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Shrikantkumar975/leetcode/tree/main/0274-h-index/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shrikantkumar975/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
