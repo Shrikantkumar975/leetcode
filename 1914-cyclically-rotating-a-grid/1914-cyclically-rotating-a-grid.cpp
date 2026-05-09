@@ -42,9 +42,11 @@ public:
             int k = k1%currL;
             if(k==0) continue;
 
-            reverse(arr.begin(),arr.begin()+k);
-            reverse(arr.begin()+k,arr.end());
-            reverse(arr.begin(),arr.end());
+            // reverse(arr.begin(),arr.begin()+k);
+            // reverse(arr.begin()+k,arr.end());
+            // reverse(arr.begin(),arr.end());
+
+            rotate(arr.begin(),arr.begin()+k,arr.end());
 
             int j=0;
 
@@ -72,3 +74,5 @@ public:
         return grid;
     }
 };
+
+//takes 45:49 mins
