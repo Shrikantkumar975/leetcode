@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Shrikantkumar975/leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shrikantkumar975/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Shrikantkumar975/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shrikantkumar975/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Shrikantkumar975/leetcode/tree/main/1723-find-minimum-time-to-finish-all-jobs/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Shrikantkumar975/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Shrikantkumar975/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Shrikantkumar975/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Shrikantkumar975/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/Shrikantkumar975/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -451,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shrikantkumar975/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shrikantkumar975/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Shrikantkumar975/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2615-sum-of-distances](https://github.com/Shrikantkumar975/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
