@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Shrikantkumar975/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Shrikantkumar975/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/Shrikantkumar975/leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shrikantkumar975/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/Shrikantkumar975/leetcode/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [2751-robot-collisions](https://github.com/Shrikantkumar975/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shrikantkumar975/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Shrikantkumar975/leetcode/tree/main/1723-find-minimum-time-to-finish-all-jobs/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Shrikantkumar975/leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Shrikantkumar975/leetcode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shrikantkumar975/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shrikantkumar975/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Shrikantkumar975/leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shrikantkumar975/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Shrikantkumar975/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Shrikantkumar975/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
