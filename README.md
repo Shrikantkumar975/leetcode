@@ -564,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shrikantkumar975/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/Shrikantkumar975/leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/Shrikantkumar975/leetcode/tree/main/0620-not-boring-movies/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Shrikantkumar975/leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
