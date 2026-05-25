@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shrikantkumar975/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shrikantkumar975/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Shrikantkumar975/leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shrikantkumar975/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Shrikantkumar975/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shrikantkumar975/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shrikantkumar975/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Shrikantkumar975/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shrikantkumar975/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Shrikantkumar975/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shrikantkumar975/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/1622-fancy-sequence/) | Hard |
+| [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -372,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shrikantkumar975/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -413,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
