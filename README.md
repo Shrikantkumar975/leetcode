@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shrikantkumar975/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
+| [2374-node-with-highest-edge-score](https://github.com/Shrikantkumar975/leetcode/tree/main/2374-node-with-highest-edge-score/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shrikantkumar975/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Shrikantkumar975/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shrikantkumar975/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Shrikantkumar975/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0310-minimum-height-trees](https://github.com/Shrikantkumar975/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Shrikantkumar975/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [2374-node-with-highest-edge-score](https://github.com/Shrikantkumar975/leetcode/tree/main/2374-node-with-highest-edge-score/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shrikantkumar975/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
