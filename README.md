@@ -575,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Shrikantkumar975/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Shrikantkumar975/leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Shrikantkumar975/leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Shrikantkumar975/leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Shrikantkumar975/leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
