@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shrikantkumar975/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Shrikantkumar975/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Shrikantkumar975/leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shrikantkumar975/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Shrikantkumar975/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Shrikantkumar975/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Shrikantkumar975/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Shrikantkumar975/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Shrikantkumar975/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shrikantkumar975/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shrikantkumar975/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Shrikantkumar975/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Shrikantkumar975/leetcode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Shrikantkumar975/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
