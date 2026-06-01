@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Shrikantkumar975/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0031-next-permutation](https://github.com/Shrikantkumar975/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shrikantkumar975/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Shrikantkumar975/leetcode/tree/main/0048-rotate-image/) | Medium |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/Shrikantkumar975/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shrikantkumar975/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0143-reorder-list/) | Medium |
