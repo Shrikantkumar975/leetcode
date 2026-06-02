@@ -1,4 +1,4 @@
-class Solution { // Kadane Algorithms
+class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
             int m = INT_MIN;
