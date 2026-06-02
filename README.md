@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Shrikantkumar975/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Shrikantkumar975/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shrikantkumar975/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/Shrikantkumar975/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/Shrikantkumar975/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrikantkumar975/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Shrikantkumar975/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Shrikantkumar975/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/Shrikantkumar975/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/Shrikantkumar975/leetcode/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Shrikantkumar975/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Shrikantkumar975/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shrikantkumar975/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
