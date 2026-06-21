@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Shrikantkumar975/leetcode/tree/main/1723-find-minimum-time-to-finish-all-jobs/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrikantkumar975/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Shrikantkumar975/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Shrikantkumar975/leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shrikantkumar975/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shrikantkumar975/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shrikantkumar975/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Shrikantkumar975/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Shrikantkumar975/leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Shrikantkumar975/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shrikantkumar975/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Shrikantkumar975/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shrikantkumar975/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Shrikantkumar975/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shrikantkumar975/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -652,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Shrikantkumar975/leetcode/tree/main/0274-h-index/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Shrikantkumar975/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
