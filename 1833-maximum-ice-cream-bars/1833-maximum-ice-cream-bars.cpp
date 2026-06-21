@@ -6,14 +6,10 @@ public:
 
         sort(costs.begin(),costs.end());
 
-        while(coins>0 && i<costs.size()){
-            if(costs[i]<=coins){
-                maxi++;
-                coins-=costs[i];
-                i++;
-            }else{
-                break;
-            }
+        while(i<costs.size() && costs[i]<=coins ){
+            maxi++;
+            coins-=costs[i];
+            i++;
         }
 
         return maxi;
