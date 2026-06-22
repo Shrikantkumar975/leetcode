@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Shrikantkumar975/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0686-repeated-string-match](https://github.com/Shrikantkumar975/leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Shrikantkumar975/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shrikantkumar975/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shrikantkumar975/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/Shrikantkumar975/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shrikantkumar975/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Shrikantkumar975/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Shrikantkumar975/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Shrikantkumar975/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shrikantkumar975/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -574,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Shrikantkumar975/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Shrikantkumar975/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
