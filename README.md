@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Shrikantkumar975/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0310-minimum-height-trees](https://github.com/Shrikantkumar975/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Shrikantkumar975/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1306-jump-game-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
@@ -631,12 +633,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0686-repeated-string-match](https://github.com/Shrikantkumar975/leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Shrikantkumar975/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -687,4 +691,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/Shrikantkumar975/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
