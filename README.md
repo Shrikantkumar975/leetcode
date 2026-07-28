@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Shrikantkumar975/leetcode/tree/main/1723-find-minimum-time-to-finish-all-jobs/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrikantkumar975/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Shrikantkumar975/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Shrikantkumar975/leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shrikantkumar975/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Shrikantkumar975/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shrikantkumar975/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shrikantkumar975/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrikantkumar975/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Shrikantkumar975/leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shrikantkumar975/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shrikantkumar975/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Shrikantkumar975/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/Shrikantkumar975/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shrikantkumar975/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Shrikantkumar975/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shrikantkumar975/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -660,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrikantkumar975/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shrikantkumar975/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shrikantkumar975/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shrikantkumar975/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/Shrikantkumar975/leetcode/tree/main/3161-block-placement-queries/) | Hard |
