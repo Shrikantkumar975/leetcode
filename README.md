@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Shrikantkumar975/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Shrikantkumar975/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrikantkumar975/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/Shrikantkumar975/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrikantkumar975/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shrikantkumar975/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Shrikantkumar975/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Shrikantkumar975/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Shrikantkumar975/leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -627,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Shrikantkumar975/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Shrikantkumar975/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Shrikantkumar975/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shrikantkumar975/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shrikantkumar975/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -800,4 +804,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
