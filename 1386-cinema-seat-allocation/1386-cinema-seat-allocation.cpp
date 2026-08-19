@@ -1,26 +1,44 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        unordered_map<int,set<int>> mp;        
+        unordered_map<int,vector<int>> mpp;
 
-        for(auto m: reservedSeats){
-            mp[m[0]].insert(m[1]);;
+        for(auto &m: reservedSeats){
+            if(m[1]==1 || m[1]==10) continue;
+
+            if(mpp.find(m[0]-1)==mpp.end()) mpp[m[0]-1].resize(10, 0);
+            mpp[m[0]-1][m[1]-1]=1;
         }
 
-        int ans=(n-mp.size())*2;
+        int count=(n-mpp.size())*2;
 
-        for(auto &row: mp){
-            auto &s = row.second;
+        for(auto m: mpp){
+            auto v1 = m.second;
 
-            bool l  = !(s.count(2) || s.count(3) || s.count(4) || s.count(5));
-            bool mid   = !(s.count(4) || s.count(5) || s.count(6) || s.count(7));
-            bool r = !(s.count(6) || s.count(7) || s.count(8) || s.count(9));
+            if(v1[1]==0 && v1[2]==0 && v1[3]==0 && v1[4]==0){
+                count++;
+                v1[1]=1;
+                v1[2]=1;
+                v1[3]=1;
+                v1[4]=1;
+            }
 
-
-            if(l && r) ans+=2;
-            else if(l || mid || r) ans+=1;
+            if(v1[3]==0 && v1[4]==0 && v1[5]==0 && v1[6]==0){
+                count++;
+                v1[3]=1;
+                v1[4]=1;
+                v1[5]=1;
+                v1[6]=1;
+            }
+            if(v1[5]==0 && v1[6]==0 && v1[7]==0 && v1[8]==0){
+                count++;
+                v1[5]=1;
+                v1[6]=1;
+                v1[7]=1;
+                v1[8]=1;
+            }
         }
 
-        return ans;
+        return count;
     }
 };
