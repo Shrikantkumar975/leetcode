@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1871-jump-game-vii](https://github.com/Shrikantkumar975/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shrikantkumar975/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/Shrikantkumar975/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shrikantkumar975/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shrikantkumar975/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shrikantkumar975/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Shrikantkumar975/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shrikantkumar975/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/Shrikantkumar975/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shrikantkumar975/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shrikantkumar975/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Shrikantkumar975/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Shrikantkumar975/leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1927-sum-game](https://github.com/Shrikantkumar975/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shrikantkumar975/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shrikantkumar975/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -832,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1563-stone-game-v](https://github.com/Shrikantkumar975/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Shrikantkumar975/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shrikantkumar975/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
