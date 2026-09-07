@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Shrikantkumar975/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0686-repeated-string-match](https://github.com/Shrikantkumar975/leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shrikantkumar975/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Shrikantkumar975/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0788-rotated-digits](https://github.com/Shrikantkumar975/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrikantkumar975/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
