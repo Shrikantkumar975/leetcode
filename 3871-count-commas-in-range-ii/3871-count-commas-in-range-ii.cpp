@@ -1,20 +1,16 @@
 class Solution {
 public:
     long long countCommas(long long n) {
-        long long answer=0;
-        int comma = 1;
-        long long lower = 1000;
+        long long ans = 0;
+        long long curr = 1000;
 
-        while(lower<=n){
-            long long upper = lower*1000 -1;
-            if(upper > n) upper = n;
+        int base = n%1000;
 
-            answer += (upper - lower + 1)* comma;
-
-            lower*=1000;
-            comma++;
+        while(curr<=n){
+            ans+=(n-curr)+1;
+            curr*=1000;
         }
 
-        return answer;
+        return ans;
     }
 };
