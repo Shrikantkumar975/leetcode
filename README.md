@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shrikantkumar975/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrikantkumar975/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -598,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrikantkumar975/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -818,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrikantkumar975/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
