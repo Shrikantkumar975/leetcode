@@ -1,43 +1,32 @@
 class Solution {
 public:
-    using ll = long long;
+    vector<long long> resultArray(vector<int>& nums, int k) {
+        int n = nums.size();
 
-    int n;
+        vector<long long> result(k, 0);
+        vector<long long> prevCount(k, 0);
 
-    ll solve(int i, int prevProd, int req, int k, auto& nums, auto& dp) {
+        for(int i = 0; i < n; i++) {
 
-        if(i >= nums.size()) return 0;
-        if(dp[i][prevProd] != -1) return dp[i][prevProd];
+            //index i par end hone waale all subarrays
+            vector<long long> currCount(k, 0);
 
-        ll skip = 0, take = 0;
+            int currElementRemainder = nums[i]%k;
+            currCount[currElementRemainder]++;
 
-        // Skip current element (only if no subarray started yet)
-        if(prevProd == k){
-            skip = solve(i + 1, k, req, k, nums, dp);
+            for(int oldRem = 0; oldRem <= k-1; oldRem++) {
+                int newRemain = ((long long)oldRem * nums[i] % k) % k;
+
+                currCount[newRemain] += prevCount[oldRem];
+            }
+
+            prevCount = move(currCount);
+
+            for(int x = 0; x <= k-1; x++) {
+                result[x] += prevCount[x];
+            }
         }
 
-        // Take current element
-        ll curProd;
-        if(prevProd == k) curProd = nums[i]; // started from cur num
-        else curProd = (prevProd * nums[i]) % k; // extending forward
-
-        take += (curProd == req);
-        take += solve(i + 1, curProd, req, k, nums, dp);
-
-        return dp[i][prevProd] = take + skip;
-    }
-
-    vector<ll> resultArray(vector<int>& nums, int k) {
-        n = nums.size();
-        vector<ll> res(k, 0);
-
-        for(int& num : nums) num %= k;
-
-        for(int r = 0; r < k; r++){
-            vector<vector<ll>> dp(n, vector<ll>(k + 1, -1));
-            res[r] = solve(0, k, r, k, nums, dp);
-        }
-
-        return res;
+        return result;
     }
 };
