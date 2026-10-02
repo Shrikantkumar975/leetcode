@@ -1,21 +1,16 @@
 class Solution {
 public:
     void dfs(int n, int open,int close,string curr,vector<string> &ans){
-        if(open>n || close>n || close>open){
-            return;
-        }
-
         if(open==n && close==n){
             ans.push_back(curr);
             return;
         }
 
-        curr.push_back('(');
-        dfs(n,open+1,close,curr,ans);
-        curr.pop_back();
+        if(open<n)
+        dfs(n,open+1,close,curr+'(',ans);
 
-        curr.push_back(')');
-        dfs(n,open,close+1,curr,ans);
+        if(close<open)
+        dfs(n,open,close+1,curr+')',ans);
     }
 
     vector<string> generateParenthesis(int n) {
