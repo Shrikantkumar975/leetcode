@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Shrikantkumar975/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Shrikantkumar975/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/Shrikantkumar975/leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Shrikantkumar975/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/Shrikantkumar975/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/Shrikantkumar975/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Shrikantkumar975/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Shrikantkumar975/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shrikantkumar975/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shrikantkumar975/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -692,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shrikantkumar975/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Shrikantkumar975/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -1014,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shrikantkumar975/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
