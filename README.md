@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Shrikantkumar975/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Shrikantkumar975/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
@@ -167,9 +167,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shrikantkumar975/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrikantkumar975/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Shrikantkumar975/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/Shrikantkumar975/leetcode/tree/main/0013-roman-to-integer/) | Easy |
@@ -243,8 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shrikantkumar975/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrikantkumar975/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0077-combinations](https://github.com/Shrikantkumar975/leetcode/tree/main/0077-combinations/) | Medium |
@@ -260,8 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2305-fair-distribution-of-cookies](https://github.com/Shrikantkumar975/leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0079-word-search](https://github.com/Shrikantkumar975/leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Shrikantkumar975/leetcode/tree/main/0207-course-schedule/) | Medium |
@@ -279,8 +280,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrikantkumar975/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/Shrikantkumar975/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shrikantkumar975/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -320,8 +321,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-flip-square-submatrix-vertically](https://github.com/Shrikantkumar975/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0371-sum-of-two-integers](https://github.com/Shrikantkumar975/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Shrikantkumar975/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
@@ -337,15 +338,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrikantkumar975/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shrikantkumar975/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0143-reorder-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shrikantkumar975/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/Shrikantkumar975/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Shrikantkumar975/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -363,8 +364,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-process-string-with-special-operations-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Shrikantkumar975/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrikantkumar975/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Shrikantkumar975/leetcode/tree/main/0013-roman-to-integer/) | Easy |
@@ -420,8 +421,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shrikantkumar975/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0045-jump-game-ii/) | Medium |
@@ -478,14 +479,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bitmask
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Shrikantkumar975/leetcode/tree/main/1723-find-minimum-time-to-finish-all-jobs/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Shrikantkumar975/leetcode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/Shrikantkumar975/leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Shrikantkumar975/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Shrikantkumar975/leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -524,8 +525,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shrikantkumar975/leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3731-find-missing-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shrikantkumar975/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shrikantkumar975/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -538,8 +539,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shrikantkumar975/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrikantkumar975/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/Shrikantkumar975/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Shrikantkumar975/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Shrikantkumar975/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -549,12 +550,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/Shrikantkumar975/leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrikantkumar975/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Shrikantkumar975/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrikantkumar975/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -565,8 +566,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrikantkumar975/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shrikantkumar975/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1291-sequential-digits](https://github.com/Shrikantkumar975/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Shrikantkumar975/leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shrikantkumar975/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -577,8 +578,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shrikantkumar975/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Shrikantkumar975/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0310-minimum-height-trees](https://github.com/Shrikantkumar975/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
@@ -595,8 +596,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrikantkumar975/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shrikantkumar975/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Shrikantkumar975/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -608,8 +609,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shrikantkumar975/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/Shrikantkumar975/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0310-minimum-height-trees](https://github.com/Shrikantkumar975/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Shrikantkumar975/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -618,13 +619,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shrikantkumar975/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/Shrikantkumar975/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0310-minimum-height-trees](https://github.com/Shrikantkumar975/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shrikantkumar975/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -645,16 +646,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shrikantkumar975/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Shrikantkumar975/leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shrikantkumar975/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Shrikantkumar975/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shrikantkumar975/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shrikantkumar975/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
@@ -662,8 +663,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrikantkumar975/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Shrikantkumar975/leetcode/tree/main/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -693,8 +694,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-flip-square-submatrix-vertically](https://github.com/Shrikantkumar975/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shrikantkumar975/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Shrikantkumar975/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0055-jump-game/) | Medium |
@@ -731,8 +732,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shrikantkumar975/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0013-roman-to-integer](https://github.com/Shrikantkumar975/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Shrikantkumar975/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shrikantkumar975/leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -779,12 +780,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Randomized
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shrikantkumar975/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/Shrikantkumar975/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Shrikantkumar975/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Shrikantkumar975/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -811,8 +812,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3903-smallest-stable-index-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shrikantkumar975/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shrikantkumar975/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Shrikantkumar975/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -821,8 +822,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shrikantkumar975/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shrikantkumar975/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -831,12 +832,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shrikantkumar975/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Shrikantkumar975/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shrikantkumar975/leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -846,12 +847,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shrikantkumar975/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shrikantkumar975/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrikantkumar975/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -873,17 +874,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shrikantkumar975/leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Minimum Spanning Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shrikantkumar975/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shrikantkumar975/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shrikantkumar975/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shrikantkumar975/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -891,35 +892,35 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrikantkumar975/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0686-repeated-string-match](https://github.com/Shrikantkumar975/leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Shrikantkumar975/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Shrikantkumar975/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/Shrikantkumar975/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shrikantkumar975/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shrikantkumar975/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Shrikantkumar975/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0836-rectangle-overlap](https://github.com/Shrikantkumar975/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shrikantkumar975/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/Shrikantkumar975/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shrikantkumar975/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Shrikantkumar975/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
@@ -934,22 +935,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Shrikantkumar975/leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Shrikantkumar975/leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/Shrikantkumar975/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0274-h-index](https://github.com/Shrikantkumar975/leetcode/tree/main/0274-h-index/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Shrikantkumar975/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shrikantkumar975/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shrikantkumar975/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shrikantkumar975/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shrikantkumar975/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -957,27 +958,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shrikantkumar975/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shrikantkumar975/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [3161-block-placement-queries](https://github.com/Shrikantkumar975/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shrikantkumar975/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shrikantkumar975/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shrikantkumar975/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0877-stone-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -986,40 +987,40 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Shrikantkumar975/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shrikantkumar975/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Shrikantkumar975/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Shrikantkumar975/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Shrikantkumar975/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Shrikantkumar975/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shrikantkumar975/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Nim Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/Shrikantkumar975/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Range Minimum/Maximum Query
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shrikantkumar975/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Floyd's Cycle Finding Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/Shrikantkumar975/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -1031,7 +1032,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrikantkumar975/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shrikantkumar975/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Sprague–Grundy Theorem
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
