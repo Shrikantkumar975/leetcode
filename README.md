@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Shrikantkumar975/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Shrikantkumar975/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Shrikantkumar975/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrikantkumar975/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Shrikantkumar975/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Shrikantkumar975/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Shrikantkumar975/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/Shrikantkumar975/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Shrikantkumar975/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Shrikantkumar975/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Shrikantkumar975/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -590,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Shrikantkumar975/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shrikantkumar975/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Shrikantkumar975/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Shrikantkumar975/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -604,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Shrikantkumar975/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Shrikantkumar975/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Shrikantkumar975/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shrikantkumar975/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
