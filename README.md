@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shrikantkumar975/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shrikantkumar975/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shrikantkumar975/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrikantkumar975/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shrikantkumar975/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrikantkumar975/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shrikantkumar975/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shrikantkumar975/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -679,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-operations-on-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrikantkumar975/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -839,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -909,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3161-block-placement-queries](https://github.com/Shrikantkumar975/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shrikantkumar975/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -980,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shrikantkumar975/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [3161-block-placement-queries](https://github.com/Shrikantkumar975/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shrikantkumar975/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Function
 |  |
 | ------- |
