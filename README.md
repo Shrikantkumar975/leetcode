@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/Shrikantkumar975/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/Shrikantkumar975/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Shrikantkumar975/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shrikantkumar975/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shrikantkumar975/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -873,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Shrikantkumar975/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shrikantkumar975/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Shrikantkumar975/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shrikantkumar975/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shrikantkumar975/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
