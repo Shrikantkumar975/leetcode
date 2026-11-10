@@ -1,38 +1,69 @@
-    class Solution {
+class Solution {
 public:
     vector<int> busiestServers(int k, vector<int>& arrival, vector<int>& load) {
-        set<int> available;
-        vector<int> freq(k, 0);
-        int maxReq = 0;
-        priority_queue<pair<long long, int>,
-                       vector<pair<long long, int>>,
-                       greater<pair<long long, int>>> pq;
-        for (int i = 0; i < k; ++i) {
-            available.insert(i);
-        }
-        for (int i = 0; i < arrival.size(); ++i) {
-            while (!pq.empty() && pq.top().first <= arrival[i]) {
-                available.insert(pq.top().second);
+        vector<int> st(k,0);
+
+        vector<int> count(k,0);
+
+        //end-time,server
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+
+        for(int i=0;i<arrival.size();i++){
+            while(!pq.empty() && pq.top().first<=arrival[i]){
+                int s = pq.top().second;
+                st[s]=0;
                 pq.pop();
             }
-            if (available.empty()) continue;
-            auto it = available.lower_bound(i % k);
-            if (it == available.end()) {
-                it = available.begin();
-            }
-            int server = *it;
-            available.erase(it);
-            pq.push({(long long)arrival[i] + load[i], server});
-            freq[server]++;
-            maxReq = max(maxReq, freq[server]);
-        }
-        vector<int> res;
-        for (int i = 0; i < k; ++i) {
-            if (freq[i] == maxReq) {
-                res.push_back(i);
+
+            if(st[i%k]==0){
+                pq.push({arrival[i]+load[i],i%k});
+                st[i%k]=1;
+                count[i%k]++;
+            }else{
+                int j=i%k+1;
+                int ins = 0;
+                while(j<k){
+                    if(st[j]==0){
+                       pq.push({arrival[i]+load[i],j});
+                        st[j]=1;
+                        count[j]++; 
+                        ins=1;
+                        break;
+                    }
+                    j++;
+                }
+
+                if(ins==0){
+                    j=0;
+                    while(j<i%k){
+                        if(st[j]==0){
+                            pq.push({arrival[i]+load[i],j});
+                            st[j]=1;
+                            count[j]++; 
+                            ins=1;
+                            break;
+                        }
+                        j++;
+                    }
+                }
             }
         }
 
-        return res;
+        priority_queue<pair<int,int>> pq2;
+
+        for(int i=0;i<k;i++){
+            pq2.push({count[i],i});
+        }
+
+        vector<int> ans;
+
+        int curr=pq2.top().first;
+
+        while(!pq2.empty() && pq2.top().first==curr){
+            ans.push_back(pq2.top().second);
+            pq2.pop();
+        }
+
+        return ans;
     }
 };
