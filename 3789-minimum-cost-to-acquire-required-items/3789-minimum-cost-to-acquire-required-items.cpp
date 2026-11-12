@@ -1,11 +1,20 @@
 class Solution {
 public:
     long long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
-        auto bound = [&](long long needA, int costA, long long needB, int costB) {
-            int pA = min(costA, costBoth);  // a takes its full price
-            int pB = min(costB, costBoth - pA);  // b gets what's left of the bundle
-            return needA * pA + needB * pB;
-        };
-        return max(bound(need1, cost1, need2, cost2), bound(need2, cost2, need1, cost1));
+        long long ans = 1LL*costBoth*max(need1,need2);
+
+        long long option1 = 1LL*cost1*need1 + 1LL*cost2*need2;
+
+        long long option2 = 1LL*costBoth*min(need1,need2);
+
+        if(need1<need2){
+            option2+=1LL*cost2*(need2-need1);
+        }else{
+            option2+=1LL*cost1*(need1-need2);
+        }
+
+        ans = min(ans,option1);
+
+        return min(ans,option2);
     }
 };
