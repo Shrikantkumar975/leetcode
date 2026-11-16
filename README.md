@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Shrikantkumar975/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shrikantkumar975/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shrikantkumar975/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shrikantkumar975/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shrikantkumar975/leetcode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shrikantkumar975/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shrikantkumar975/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shrikantkumar975/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shrikantkumar975/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shrikantkumar975/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Shrikantkumar975/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shrikantkumar975/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
