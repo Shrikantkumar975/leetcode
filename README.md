@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Shrikantkumar975/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shrikantkumar975/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shrikantkumar975/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shrikantkumar975/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/Shrikantkumar975/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/Shrikantkumar975/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shrikantkumar975/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1510-stone-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shrikantkumar975/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Shrikantkumar975/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shrikantkumar975/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shrikantkumar975/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -801,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Shrikantkumar975/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Shrikantkumar975/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shrikantkumar975/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Shrikantkumar975/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shrikantkumar975/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shrikantkumar975/leetcode/tree/main/1622-fancy-sequence/) | Hard |
@@ -849,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/Shrikantkumar975/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Shrikantkumar975/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shrikantkumar975/leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shrikantkumar975/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shrikantkumar975/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shrikantkumar975/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shrikantkumar975/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
